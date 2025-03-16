@@ -12,10 +12,10 @@ This project implements a **Convolutional Neural Network (CNN)** to classify ima
 
 ## Installation & Setup
 1. Clone this repository:
-   ```sh
-   git clone https://github.com/YourUsername/Cat-vs-Dog-CNN.git
-   cd Cat-vs-Dog-CNN
-   ```
+```sh
+git clone https://github.com/YourUsername/Cat-vs-Dog-CNN.git
+cd Cat-vs-Dog-CNN
+```
 2. Install dependencies:
   ```sh
   pip install -r requirements.txt
